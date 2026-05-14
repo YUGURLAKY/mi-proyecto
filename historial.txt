@@ -1,0 +1,4 @@
+* 69bfdfe feat: agregar función multiplicar
+* 7df4e80 feat: agregar función sumar
+* 80fe5df docs: agregar fecha al archivo de presentación
+* e7b0fd5 feat: agregar presentación del estudiante
